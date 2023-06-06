@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Eyre and I'm a junior data scientist based in Vancouver, Canada
-I recently graduated from the Master of Data Science program at the University of British Columbia @UBC-MDS  
+### Hi there 👋 Eyre here!
+I'm a junior data scientist based in Vancouver, Canada. I recently graduated from the Master of Data Science program[(MDS)](https://github.com/UBC-MDS) at the University of British Columbia. 
 I am actively looking for data science and machine learning opportunities!
 
  <a href="https://linkedin.com/in/eyre-hong/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
@@ -7,7 +7,7 @@ I am actively looking for data science and machine learning opportunities!
   
 ----
 
-## What I Know
+## What I Know 💻
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white)
@@ -24,8 +24,9 @@ I am actively looking for data science and machine learning opportunities!
 ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=RStudio&logoColor=white)
@@ -41,13 +42,15 @@ I am actively looking for data science and machine learning opportunities!
 ![Amazon EC2 Badge](https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=for-the-badge)
 ![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge)
 
-## What I'm Learning
+## What I'm Learning 💡
 
 ![GitHub Actions](https://img.shields.io/badge/-GithubActions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
 
-## GitHub Stats
+<details>
+<summary><h3>GitHub Stats 📊</h3></summary>
+<br>
   
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyrexh&theme=nord_bright)
   
@@ -55,5 +58,7 @@ I am actively looking for data science and machine learning opportunities!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eyrexh&theme=nord_bright)
 
+ <br>
+</details>
   
 <div align="center">Thank you for reviewing!</div>
