@@ -1,5 +1,5 @@
 ### Hi there 👋 Eyre here!
-I'm a junior data scientist based in Vancouver, Canada🇨🇦. I recently graduated from the Master of Data Science program[(MDS)](https://github.com/UBC-MDS) at the University of British Columbia. 
+I'm a data scientist based in Vancouver, Canada🇨🇦. I recently graduated from the Master of Data Science program[(MDS)](https://github.com/UBC-MDS) at the University of British Columbia. 
 I'm currently on the hunt for exciting opportunities of data science and machine learning!
 
  <a href="https://linkedin.com/in/eyre-hong/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
