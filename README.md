@@ -26,11 +26,11 @@ I'm currently on the hunt for exciting opportunities of data science and machine
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=RStudio&logoColor=white)
-  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat-square&logo=rstudio&logoColor=white)
@@ -46,6 +46,8 @@ I'm currently on the hunt for exciting opportunities of data science and machine
 
 ![GitHub Actions](https://img.shields.io/badge/-GithubActions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
 
 <details>
