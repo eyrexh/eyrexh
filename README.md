@@ -54,11 +54,11 @@ I'm currently on the hunt for exciting opportunities of data science and machine
 <summary><h3>GitHub Stats 📊</h3></summary>
 <br>
   
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyrexh&theme=nord_bright)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyrexh&theme=swift)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eyrexh&theme=nord_bright) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eyrexh&theme=swift) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eyrexh&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eyrexh&theme=swift)
 
  <br>
 </details>
