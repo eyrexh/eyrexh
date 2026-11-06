@@ -2,7 +2,7 @@
 I am a Database Analyst at [(BC Public Service)](https://www2.gov.bc.ca/gov/content/home), located in Vancouver, Canada. I started my Data Science journey from the Master of Data Science program[(MDS)](https://github.com/UBC-MDS) at the University of British Columbia. 
 I'm currently on the hunt for exciting opportunities in data science and machine learning!
 
- <a href="https://linkedin.com/in/eyre-hong/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+ Check my LinkedIn here! -> <a href="https://linkedin.com/in/eyre-hong/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 </p>
   
 ----
