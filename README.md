@@ -1,5 +1,5 @@
 ### Hi there 👋 Eyre here!
-I am a Database Systems Analyst at BCPS, located in Vancouver, Canada. I started my Data Science journey from the Master of Data Science program[(MDS)](https://github.com/UBC-MDS) at the University of British Columbia. 
+I am a Database Analyst at BCPS, located in Vancouver, Canada. I started my Data Science journey from the Master of Data Science program[(MDS)](https://github.com/UBC-MDS) at the University of British Columbia. 
 I'm currently on the hunt for exciting opportunities in data science and machine learning!
 
  <a href="https://linkedin.com/in/eyre-hong/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
@@ -30,6 +30,7 @@ I'm currently on the hunt for exciting opportunities in data science and machine
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=RStudio&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
@@ -46,8 +47,6 @@ I'm currently on the hunt for exciting opportunities in data science and machine
 ## What I'm Learning 💡
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
 
 <details>
